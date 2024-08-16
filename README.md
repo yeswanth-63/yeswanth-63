@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yeswanth koppaka</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working as a software developer intern at odoo **at Odoo**
+- 🔭 I’m currently working as a software developer intern **at Odoo**
 
 - 🌱 I’m currently learning **Odoo's ERP software and Framework **
 
