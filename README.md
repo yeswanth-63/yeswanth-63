@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm yeswanth koppaka</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+- 🔭 I’m currently working as a software developer internnn at odoo **at odoo**
+
+- 🌱 I’m currently learning **Advanced data engineering**
+
+- 👯 I’m looking to collaborate on **open-source projects**
+
+- 💬 Ask me about **DataScience,Machine Learning and Python**
+
 - 📫 How to reach me **yeswanthkoppaka063@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
