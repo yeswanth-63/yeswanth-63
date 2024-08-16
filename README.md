@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as a software developer intern **at odoo**
 
-- 🌱 I’m currently learning **Advanced data engineering**
+- 🌱 I’m currently learning **Odoo's ERP software and Framework**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **open-source projects and Hackathons**
 
 - 💬 Ask me about **DataScience,Machine Learning and Python**
 
