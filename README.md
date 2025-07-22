@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeswanth-63&label=Profile%20views&color=0e75b6&style=flat" alt="yeswanth-63" /> </p>
 
-- 🔭 I’m currently working as a software developer intern **at odoo**
+- 🔭 I’m currently working as a sap consultant **at genpact**
 
-- 🌱 I’m currently learning **Odoo's ERP software and Framework**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **open-source projects and Hackathons**
 
