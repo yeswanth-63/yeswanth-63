@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects and Hackathons**
 
-- 💬 Ask me about **DataScience and Machine Learning**
+- 💬 Ask me about **DataScience , Machine Learning and Deep Learning**
 
 - 📫 How to reach me **yeswanthkoppaka063@gmail.com**
 
