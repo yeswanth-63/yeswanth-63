@@ -1,28 +1,90 @@
-<h1 align="center">Hi 👋, I'm yeswanth koppaka</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yeswanth Koppaka</h1>
+<h3 align="center">SAP BTP Consultant | Full Stack Learner | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeswanth-63&label=Profile%20views&color=0e75b6&style=flat" alt="yeswanth-63" /> </p>
-
-- 🔭 I’m currently working as a sap consultant **at genpact**
-
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
-
-- 👯 I’m looking to collaborate on **open-source projects and Hackathons**
-
-- 💬 Ask me about **DataScience , Machine Learning and Deep Learning**
-
-- 📫 How to reach me **yeswanthkoppaka063@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/koppaka yeswanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koppaka yeswanth" height="30" width="40" /></a>
-<a href="https://instagram.com/yeswanth_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeswanth_63" height="30" width="40" /></a>
-<a href="https://discord.gg/koye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="koye" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Yeswanth+Koppaka;SAP+BTP+Consultant+at+Genpact;Full+Stack+Developer;Tech+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeswanth-63&show_icons=true&locale=en&layout=compact" alt="yeswanth-63" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeswanth-63&label=Profile%20views&color=0e75b6&style=flat" alt="yeswanth-63" />
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeswanth-63&show_icons=true&locale=en" alt="yeswanth-63" /></p>
+### 👨‍💼 About Me
+
+- 🔭 I’m currently working as a **SAP Consultant at Genpact**
+- 🌱 I’m currently learning **Full Stack Development**
+- 👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
+- 💬 Ask me about **Data Science, Machine Learning, and Deep Learning**
+- 📫 Reach me at **yeswanthkoppaka063@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/koppaka yeswanth" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/yeswanth_63" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/koye" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- SAP Build Process Automation & Work Zone  
+- Clean Core principles in S/4HANA  
+- CI/CD pipelines for BTP projects  
+- Full Stack Web Development (MERN Stack)  
+- Advanced UX with Fiori and UI5  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanth-63&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanth-63&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeswanth-63&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanth-63&layout=compact&theme=default" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+```txt
+🧠 I believe in continuous learning and sharing knowledge  
+🔥 I love solving real-world problems using tech  
+🌍 Mission: Learn, Build, Share, Repeat  
