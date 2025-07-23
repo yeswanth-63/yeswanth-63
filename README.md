@@ -1,65 +1,97 @@
-<h1 align="center">Hi 👋, I'm Koppaka</h1>
-<h3 align="center">SAP BTP Developer | Consultant @ Genpact</h3>
+<h1 align="center">Hi there, I'm Koppaka Yeswanth 👋</h1>
+<h3 align="center">🚀 Passionate AI/ML Enthusiast | 💼 SAP BTP Consultant @ Genpact | 💻 Software Developer</h3>
 
 <p align="center">
-  Passionate about building scalable enterprise apps on SAP BTP and exploring the power of full-stack technologies.
+  I love creating intelligent applications, exploring the latest in Generative AI and LLMs, and contributing to real-world tech solutions.<br>
+  Currently learning, building, and growing one project at a time. Let's connect and innovate together!
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> yeswanthkoppaka063@gmail.com <br>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Animation"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeswanth-63&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Connect with me:
 
-- 💼 Working as **SAP BTP Developer** at **Genpact**
-- 🌱 Currently diving deeper into:
-  - SAP CAP (Cloud Application Programming Model)
-  - SAP Fiori Elements & UI5
-  - JavaScript, Node.js & Express
-  - Core Git & GitHub Workflow
-- 🎯 Focused on clean code, scalability, and learning modern cloud-native tools.
+<div align="center">
+  <a href="https://www.linkedin.com/in/koppaka-yeswanth-3465b9217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Koppaka_Yeswanth-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Yeswanth_63?t=rcBqALIbyhvYKE9fRoF-gQ&s=09">
+    <img src="https://img.shields.io/badge/X-Yeswanth_63-black?style=for-the-badge&logo=twitter" alt="X (Twitter)">
+  </a>
+  <a href="https://discord.com/users/yeswanthkoppaka">
+    <img src="https://img.shields.io/badge/Discord-yeswanthkoppaka-7289DA?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧠 Ask Me About
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
-  <!-- Data Science Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+- Python, C++, HTML/CSS/JavaScript  
+- AI / ML / Deep Learning  
+- Generative AI & LLMs  
+- Flask, Data Science tools, and SAP BTP  
 
-  <!-- Tools & Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,mysql,git,github,vscode,pycharm,jupyter" height="50" />
+  <img src="https://img.shields.io/badge/DataScience-blue?style=flat-square&logo=python" height="25" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanth-63&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanth-63&layout=compact&theme=dracula&langs_count=6" height="150" />
+</div>
 
 ---
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yeswanth-63&theme=dracula&hide_border=false" height="150" />
+</div>
 
 ---
 
-<!-- Replace 'YOUR_GITHUB_USERNAME' above with your actual GitHub username -->
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeswanth-63&theme=dracula&row=1&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/yeswanth-63/yeswanth-63/output/github-contribution-grid-snake.svg)
+
+
+## 🕹 GitHub Activity Graph
+
+[![Yeswanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeswanth-63&theme=github-2019)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎉 Fun Section
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
